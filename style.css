@@ -28,5 +28,13 @@ p{
 }
 
 hr{
- border: 0.5px solid rgb(67, 67, 67);
+ border: 0.4px solid rgb(56, 56, 56);
+}
+
+.container {
+    color: aliceblue;
+}
+
+.container:hover{
+    color: aliceblue;
 }
